@@ -1,0 +1,17 @@
+.title
+{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 8px;
+}
+
+.header
+{
+    margin-right: auto;
+}
+
+.header2
+{
+    display: flex;
+    gap: 32px;
+}
